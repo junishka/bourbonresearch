@@ -49,3 +49,15 @@ Most efficient option is Iowa Liquor Sales. It is free, bulk-downloadable, one t
 What will not match. Private labels for bars and retailers (DSP-OH-22 rows like Leather Stallion Saloon), tiny distilleries, and anything before 2012. Expect the match rate by COLA row to be low and the match rate by sales volume to be high.
 
 If IESE has NielsenIQ via Kilts, use it for a national shelf-price panel with UPCs from 2006. Access takes weeks and the join is still name-based. For 2000 to 2011 the only product-level sources are archived control-state price books, which are PDFs.
+
+## Before 2012
+
+Ranked by effort.
+
+1. Iowa Liquor Quarterly, publications.iowa.gov. Quarterly PDFs from the same agency, each containing the monthly wholesale price list booklet. Earliest found is May 2003 (record 2789), running to 2012. Same item numbering as the transaction dataset, so parsing roughly 36 PDFs extends the Iowa series back to 2003. Price list only, no quantities.
+2. NielsenIQ via Kilts. Consumer panel from 2004, retail scanner from 2006. National and UPC-level. Subscription.
+3. NABCA. Monthly product-level shelf prices by control state going back decades. Used in Miravete, Seim and Thurk (Econometrica 2018), who also obtained daily store-level PLCB data by request. Paid or negotiated.
+4. Records requests to PLCB, Virginia ABC, or Michigan LCC for archived price books. The Econometrica precedent shows PLCB will release product-level data to academics.
+5. Wayback Machine snapshots of state price-list pages. Could not be checked from this session.
+
+For 2000 to 2002 nothing digital at product-month level was found. Options are NABCA, a records request, or newspaper price ads via ProQuest. The Liquor Handbook (Beverage Information Group) gives brand-level annual volumes and price tiers, not bottle prices.
