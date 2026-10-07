@@ -1,0 +1,22 @@
+permit_no,vendor_regex,note,status
+DSP-KY-113,SAZERAC|BUFFALO TRACE,Buffalo Trace (brands in sample: Weller Eagle Rare Blanton Benchmark Old Charter Ancient Age Elmer T Lee),verify
+DSP-KY-14,JIM BEAM|BEAM SUNTORY,Beam Clermont (Jim Beam Old Grand-Dad Calvert Kentucky Colonel),verify
+DSP-KY-230,JIM BEAM|BEAM SUNTORY,Beam Boston (Knob Creek),verify
+KY-I-344,HEAVEN HILL,Heaven Hill bottler permit (Evan Williams Old Fitzgerald Mattingly & Moore),verify
+DSP-KY-1,HEAVEN HILL,Heaven Hill Bernheim,verify
+DSP-KY-31,HEAVEN HILL,Heaven Hill Bardstown,verify
+DSP-KY-52,BROWN.?FORMAN,Labrot & Graham / Woodford Reserve,verify
+KY-DRB-10,BROWN.?FORMAN,Early Times,verify
+DSP-KY-354,BROWN.?FORMAN,Brown-Forman Louisville,verify
+DSP-KY-414,BROWN.?FORMAN,Old Forester,verify
+DSP-KY-67,CAMPARI|AUSTIN NICHOLS|WILD TURKEY,Wild Turkey (Russell's Reserve),verify
+DSP-MO-16,LUXCO|DAVID SHERMAN,Luxco St Louis (Rebel Yell Ezra Brooks),verify
+DSP-MO-5,MCCORMICK,McCormick Distilling,verify
+DSP-KY-24,BARTON|SAZERAC|CONSTELLATION,Barton 1792 (Very Old Barton),verify
+DSP-KY-78,KENTUCKY BOURBON DISTILLERS|WILLETT,KBD / Willett (Olde St Nick),verify
+DSP-KY-44,MAKER|BEAM SUNTORY,Maker's Mark,verify
+DSP-KY-13,FOUR ROSES|KIRIN,Four Roses,verify
+DSP-KY-16,DIAGEO,Stitzel-Weller / Diageo,verify
+DSP-MD-03,DIAGEO|SEAGRAM,Bulleit (Seagram Relay MD then Diageo),verify
+DSP-IN-15,MGP|LDI|SEAGRAM,Lawrenceburg IN (sourced whiskey),verify
+DSP-OH-22,PARAMOUNT,Paramount Distillers Cleveland (mostly private labels),verify
